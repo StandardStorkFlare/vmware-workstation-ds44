@@ -1,4 +1,4 @@
-# 
+# Enhance VMware Workstation for PC | VMware Workstation for Windows with VMware Workstation for PC | VMware Workstation for Windows automatic Extension: network-configuration &
 
 
 
